@@ -1,2 +1,2 @@
-# Projeto--curso-Git
+# Projeto--curso.Git
 Projeto Curso Bootcamp Carrefour
